@@ -1,0 +1,50 @@
+{
+  "video_id": "2025-05-31_14-01-37_UTC",
+  "vibes": [
+    "Boho",
+    "Party Glam",
+    "Clean Girl"
+  ],
+  "products": [
+    {
+      "type": "Top",
+      "color": "Colour:Black, Fabric:Rescued Fabric, Gender:Women, GID_VWWTO24352153, GroupID:VWWTO24352153, Print:Solid, StyleID:VWWTO2435215301",
+      "image_url": "https://cdn.shopify.com/s/files/1/0785/1674/8585/files/13th_NOV_2024_Virgio-1734_512x.jpg?v=1736325768",
+      "matched_product_id": 15393,
+      "match_type": "similar",
+      "confidence": 0.9
+    },
+    {
+      "type": "Trouser",
+      "color": "Colour:Red, Fabric:Cotton, Gender:Women, GID_VWWTR24446107, GroupID:VWWTR24446107, Print:Solid, StyleID:VWWTR2444610702",
+      "image_url": "https://cdn.shopify.com/s/files/1/0785/1674/8585/files/13thNOV2024Virgio-1337_512x.jpg?v=1739445274",
+      "matched_product_id": 15360,
+      "match_type": "similar",
+      "confidence": 0.89
+    },
+    {
+      "type": "Co-Ord",
+      "color": "Colour:Red, Fabric:Cotton, Gender:Women, GID_VWWCO24446107, GroupID:VWWCO24446107, Print:Solid, StyleID:VWWCO2444610702",
+      "image_url": "https://cdn.shopify.com/s/files/1/0785/1674/8585/files/VIRGIO_MANUSHI_449_512x.jpg?v=1733925948",
+      "matched_product_id": 15138,
+      "match_type": "similar",
+      "confidence": 0.89
+    },
+    {
+      "type": "Dress",
+      "color": "Colour:Black, Fabric:Cotton, Gender:Women, GID_VWWDR24300348, GroupID:VWWDR24300348, Print:Black, StyleID:VWWDR2430034801",
+      "image_url": "https://cdn.shopify.com/s/files/1/0785/1674/8585/files/28th_Aug_Virgio1623_512x.jpg?v=1726039932",
+      "matched_product_id": 15672,
+      "match_type": "similar",
+      "confidence": 0.89
+    },
+    {
+      "type": "Dress",
+      "color": "Colour:Black, Fabric:Cotton, Gender:Women, GID_VWWDR25033200, GroupID:VWWDR25033200, Print:Solid, StyleID:VWWDR2503320001",
+      "image_url": "https://cdn.shopify.com/s/files/1/0785/1674/8585/files/WEB5_9add3ba8-36da-44e8-b765-1b4170403192_512x.jpg?v=1739430286",
+      "matched_product_id": 14999,
+      "match_type": "similar",
+      "confidence": 0.89
+    }
+  ]
+}

@@ -1,0 +1,5076 @@
+[
+  {
+    "frame": "frame_0000.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.925,
+        "bbox": [
+          336.84,
+          679.37,
+          670.29,
+          1200.78
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.437,
+        "bbox": [
+          468.17,
+          656.38,
+          63.79,
+          85.88
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0001.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.925,
+        "bbox": [
+          361.8,
+          684.92,
+          683.18,
+          1190.15
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.4,
+        "bbox": [
+          492.7,
+          677.93,
+          62.98,
+          82.88
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0002.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.928,
+        "bbox": [
+          368.33,
+          682.71,
+          687.11,
+          1194.59
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.32,
+        "bbox": [
+          505.7,
+          681.48,
+          62.65,
+          80.77
+        ]
+      },
+      {
+        "class_id": 75,
+        "class_name": "vase",
+        "confidence": 0.29,
+        "bbox": [
+          627.97,
+          442.44,
+          138.24,
+          237.31
+        ]
+      },
+      {
+        "class_id": 65,
+        "class_name": "remote",
+        "confidence": 0.251,
+        "bbox": [
+          432.57,
+          1142.53,
+          231.44,
+          187.83
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0003.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.927,
+        "bbox": [
+          368.94,
+          678.76,
+          685.96,
+          1201.36
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.441,
+        "bbox": [
+          504.45,
+          675.61,
+          64.5,
+          82.19
+        ]
+      },
+      {
+        "class_id": 75,
+        "class_name": "vase",
+        "confidence": 0.367,
+        "bbox": [
+          625.55,
+          440.05,
+          138.89,
+          237.85
+        ]
+      },
+      {
+        "class_id": 65,
+        "class_name": "remote",
+        "confidence": 0.262,
+        "bbox": [
+          430.66,
+          1160.79,
+          226.35,
+          235.88
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0004.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.931,
+        "bbox": [
+          363.81,
+          671.97,
+          686.36,
+          1210.37
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.516,
+        "bbox": [
+          491.58,
+          674.13,
+          67.53,
+          86.4
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0005.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.915,
+        "bbox": [
+          360.27,
+          678.36,
+          671.04,
+          1198.48
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0006.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.896,
+        "bbox": [
+          356.27,
+          696.05,
+          695.94,
+          1159.17
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.261,
+        "bbox": [
+          669.53,
+          706.45,
+          78.15,
+          137.75
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0007.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.914,
+        "bbox": [
+          364.65,
+          720.98,
+          707.78,
+          1115.78
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0008.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.912,
+        "bbox": [
+          358.81,
+          726.14,
+          685.69,
+          1101.4
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.353,
+        "bbox": [
+          50.99,
+          1021.71,
+          101.31,
+          364.31
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0009.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.905,
+        "bbox": [
+          357.91,
+          727.2,
+          711.29,
+          1098.49
+        ]
+      },
+      {
+        "class_id": 75,
+        "class_name": "vase",
+        "confidence": 0.552,
+        "bbox": [
+          560.31,
+          475.07,
+          113.15,
+          191.31
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.336,
+        "bbox": [
+          45.86,
+          997.96,
+          91.52,
+          320.35
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0010.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.911,
+        "bbox": [
+          362.93,
+          733.64,
+          710.27,
+          1088.02
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.486,
+        "bbox": [
+          631.3,
+          734.99,
+          100.98,
+          198.56
+        ]
+      },
+      {
+        "class_id": 75,
+        "class_name": "vase",
+        "confidence": 0.4,
+        "bbox": [
+          555.94,
+          452.19,
+          111.31,
+          142.33
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.314,
+        "bbox": [
+          42.37,
+          989.81,
+          83.66,
+          306.06
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0011.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.909,
+        "bbox": [
+          363.0,
+          731.12,
+          707.69,
+          1094.35
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.553,
+        "bbox": [
+          622.71,
+          734.1,
+          85.85,
+          191.88
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.264,
+        "bbox": [
+          43.25,
+          995.72,
+          86.16,
+          310.96
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0012.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.899,
+        "bbox": [
+          360.87,
+          731.48,
+          710.26,
+          1094.93
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.391,
+        "bbox": [
+          625.67,
+          739.87,
+          89.98,
+          196.18
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.302,
+        "bbox": [
+          43.25,
+          1004.16,
+          86.05,
+          321.75
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0013.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.906,
+        "bbox": [
+          360.41,
+          732.0,
+          710.67,
+          1093.42
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.282,
+        "bbox": [
+          44.67,
+          1004.8,
+          89.03,
+          321.06
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.271,
+        "bbox": [
+          623.32,
+          740.32,
+          86.1,
+          195.97
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0014.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.906,
+        "bbox": [
+          358.43,
+          733.84,
+          706.44,
+          1089.0
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.407,
+        "bbox": [
+          46.66,
+          1004.85,
+          92.66,
+          322.93
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.304,
+        "bbox": [
+          625.84,
+          739.4,
+          84.75,
+          193.43
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0015.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.906,
+        "bbox": [
+          355.03,
+          728.42,
+          707.19,
+          1099.07
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.405,
+        "bbox": [
+          628.08,
+          735.4,
+          84.36,
+          189.1
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.328,
+        "bbox": [
+          46.97,
+          1002.04,
+          93.32,
+          320.99
+        ]
+      },
+      {
+        "class_id": 75,
+        "class_name": "vase",
+        "confidence": 0.31,
+        "bbox": [
+          561.96,
+          476.61,
+          114.4,
+          190.79
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0016.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.909,
+        "bbox": [
+          356.13,
+          731.92,
+          707.96,
+          1091.81
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.415,
+        "bbox": [
+          48.78,
+          1004.43,
+          97.37,
+          326.59
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0017.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.908,
+        "bbox": [
+          353.72,
+          728.75,
+          697.09,
+          1097.4
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.414,
+        "bbox": [
+          48.83,
+          1003.75,
+          97.38,
+          325.75
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.391,
+        "bbox": [
+          628.67,
+          734.88,
+          82.02,
+          188.4
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0018.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.909,
+        "bbox": [
+          359.57,
+          636.67,
+          716.21,
+          1273.34
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0019.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.905,
+        "bbox": [
+          360.0,
+          637.15,
+          720.0,
+          1274.3
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0020.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.899,
+        "bbox": [
+          359.5,
+          638.4,
+          717.61,
+          1272.27
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0021.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.902,
+        "bbox": [
+          359.92,
+          637.52,
+          715.69,
+          1275.04
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0022.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.922,
+        "bbox": [
+          359.2,
+          636.8,
+          717.74,
+          1273.35
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0023.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.504,
+        "bbox": [
+          360.0,
+          641.59,
+          720.0,
+          1268.17
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.421,
+        "bbox": [
+          370.22,
+          442.79,
+          699.56,
+          877.51
+        ]
+      },
+      {
+        "class_id": 65,
+        "class_name": "remote",
+        "confidence": 0.3,
+        "bbox": [
+          556.35,
+          110.09,
+          97.91,
+          129.66
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0024.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.607,
+        "bbox": [
+          378.92,
+          441.83,
+          682.16,
+          876.51
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.543,
+        "bbox": [
+          360.0,
+          633.61,
+          720.0,
+          1255.71
+        ]
+      },
+      {
+        "class_id": 65,
+        "class_name": "remote",
+        "confidence": 0.304,
+        "bbox": [
+          565.08,
+          106.65,
+          97.29,
+          131.29
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0025.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.601,
+        "bbox": [
+          372.72,
+          442.44,
+          694.48,
+          875.45
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.54,
+        "bbox": [
+          360.0,
+          630.49,
+          720.0,
+          1248.25
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.298,
+        "bbox": [
+          566.82,
+          103.27,
+          98.26,
+          133.43
+        ]
+      },
+      {
+        "class_id": 65,
+        "class_name": "remote",
+        "confidence": 0.255,
+        "bbox": [
+          567.72,
+          103.94,
+          98.14,
+          133.29
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0026.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.65,
+        "bbox": [
+          360.51,
+          586.36,
+          718.58,
+          1167.58
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0027.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.624,
+        "bbox": [
+          363.1,
+          576.49,
+          713.79,
+          1148.87
+        ]
+      },
+      {
+        "class_id": 59,
+        "class_name": "bed",
+        "confidence": 0.287,
+        "bbox": [
+          360.23,
+          820.22,
+          719.54,
+          916.18
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0028.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.878,
+        "bbox": [
+          360.69,
+          662.07,
+          718.61,
+          1227.5
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0029.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.874,
+        "bbox": [
+          358.45,
+          668.91,
+          712.67,
+          1222.18
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0030.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.891,
+        "bbox": [
+          351.81,
+          660.09,
+          702.75,
+          1236.42
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0031.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.897,
+        "bbox": [
+          361.03,
+          660.6,
+          717.4,
+          1234.68
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.575,
+        "bbox": [
+          549.33,
+          1054.7,
+          80.93,
+          231.08
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0032.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.904,
+        "bbox": [
+          357.59,
+          658.56,
+          715.18,
+          1236.11
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.592,
+        "bbox": [
+          557.38,
+          1037.09,
+          85.33,
+          204.21
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0033.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.904,
+        "bbox": [
+          358.8,
+          657.8,
+          717.61,
+          1236.5
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0034.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.904,
+        "bbox": [
+          360.0,
+          659.07,
+          720.0,
+          1237.25
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0035.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.897,
+        "bbox": [
+          360.0,
+          658.93,
+          720.0,
+          1238.96
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0036.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.884,
+        "bbox": [
+          359.1,
+          648.41,
+          714.8,
+          1258.32
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.324,
+        "bbox": [
+          550.5,
+          971.42,
+          92.35,
+          133.5
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0037.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.721,
+        "bbox": [
+          313.34,
+          432.5,
+          626.68,
+          848.31
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0038.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.674,
+        "bbox": [
+          317.26,
+          543.74,
+          634.52,
+          1087.47
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0039.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.741,
+        "bbox": [
+          320.81,
+          456.14,
+          641.61,
+          904.01
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0040.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.754,
+        "bbox": [
+          323.81,
+          454.62,
+          647.62,
+          900.6
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0041.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.897,
+        "bbox": [
+          347.37,
+          685.11,
+          688.95,
+          1185.59
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.739,
+        "bbox": [
+          598.49,
+          579.94,
+          243.01,
+          585.71
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0042.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.906,
+        "bbox": [
+          350.9,
+          674.91,
+          697.06,
+          1206.55
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.618,
+        "bbox": [
+          598.75,
+          562.11,
+          242.49,
+          540.11
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.404,
+        "bbox": [
+          597.9,
+          743.67,
+          243.45,
+          906.63
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.285,
+        "bbox": [
+          423.74,
+          634.26,
+          72.76,
+          76.63
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0043.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.885,
+        "bbox": [
+          359.29,
+          688.76,
+          713.76,
+          1177.9
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.547,
+        "bbox": [
+          598.4,
+          575.96,
+          240.76,
+          564.05
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.404,
+        "bbox": [
+          599.21,
+          475.82,
+          241.59,
+          365.12
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.4,
+        "bbox": [
+          443.35,
+          641.52,
+          54.94,
+          78.29
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0044.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.878,
+        "bbox": [
+          358.95,
+          687.82,
+          712.71,
+          1182.76
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.709,
+        "bbox": [
+          598.84,
+          568.78,
+          242.33,
+          550.19
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.338,
+        "bbox": [
+          443.03,
+          658.14,
+          59.05,
+          80.58
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0045.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.877,
+        "bbox": [
+          342.2,
+          677.78,
+          682.6,
+          1202.83
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.549,
+        "bbox": [
+          597.39,
+          581.82,
+          244.57,
+          573.05
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0046.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.841,
+        "bbox": [
+          343.92,
+          682.4,
+          684.82,
+          1193.69
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.588,
+        "bbox": [
+          595.93,
+          572.35,
+          248.13,
+          550.64
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.502,
+        "bbox": [
+          434.25,
+          631.6,
+          53.38,
+          77.89
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0047.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.857,
+        "bbox": [
+          350.44,
+          690.05,
+          700.87,
+          1179.91
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.676,
+        "bbox": [
+          596.5,
+          577.86,
+          246.71,
+          554.98
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0048.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.812,
+        "bbox": [
+          357.51,
+          690.85,
+          715.03,
+          1175.98
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.708,
+        "bbox": [
+          597.41,
+          589.79,
+          244.16,
+          569.13
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0049.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.878,
+        "bbox": [
+          353.95,
+          693.91,
+          707.04,
+          1171.12
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.569,
+        "bbox": [
+          600.43,
+          581.52,
+          239.14,
+          533.04
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0050.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.909,
+        "bbox": [
+          360.0,
+          711.42,
+          720.0,
+          1126.31
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.41,
+        "bbox": [
+          597.58,
+          541.19,
+          244.36,
+          437.09
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.267,
+        "bbox": [
+          452.83,
+          688.64,
+          51.5,
+          79.37
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0051.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.892,
+        "bbox": [
+          361.35,
+          705.62,
+          717.29,
+          1147.9
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.529,
+        "bbox": [
+          602.27,
+          595.95,
+          235.4,
+          537.76
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.435,
+        "bbox": [
+          601.41,
+          707.02,
+          237.18,
+          761.92
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0052.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.906,
+        "bbox": [
+          360.0,
+          637.46,
+          720.0,
+          1200.11
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.311,
+        "bbox": [
+          633.24,
+          373.49,
+          173.53,
+          183.96
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.31,
+        "bbox": [
+          514.67,
+          678.59,
+          67.09,
+          88.24
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0053.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.904,
+        "bbox": [
+          361.22,
+          653.06,
+          716.62,
+          1200.98
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.683,
+        "bbox": [
+          504.5,
+          707.63,
+          62.61,
+          96.16
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.519,
+        "bbox": [
+          633.98,
+          557.25,
+          172.04,
+          551.31
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0054.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.905,
+        "bbox": [
+          358.94,
+          668.37,
+          717.89,
+          1217.89
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.678,
+        "bbox": [
+          498.81,
+          710.67,
+          62.44,
+          90.54
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.56,
+        "bbox": [
+          630.95,
+          549.62,
+          178.09,
+          535.05
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.28,
+        "bbox": [
+          629.71,
+          668.81,
+          180.59,
+          774.9
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0055.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.92,
+        "bbox": [
+          360.25,
+          658.38,
+          718.8,
+          1209.36
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.568,
+        "bbox": [
+          628.62,
+          545.92,
+          182.77,
+          540.55
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.315,
+        "bbox": [
+          492.36,
+          701.97,
+          60.0,
+          90.05
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0056.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.908,
+        "bbox": [
+          361.22,
+          652.36,
+          713.83,
+          1234.81
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.44,
+        "bbox": [
+          629.44,
+          477.2,
+          181.12,
+          427.5
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0057.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.914,
+        "bbox": [
+          360.24,
+          628.81,
+          719.51,
+          1194.84
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.572,
+        "bbox": [
+          497.76,
+          695.89,
+          65.19,
+          92.4
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.47,
+        "bbox": [
+          630.7,
+          584.93,
+          177.06,
+          660.1
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0058.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.858,
+        "bbox": [
+          325.69,
+          667.38,
+          583.81,
+          746.27
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0059.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.838,
+        "bbox": [
+          326.35,
+          665.08,
+          578.94,
+          747.45
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0060.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.845,
+        "bbox": [
+          325.74,
+          664.64,
+          574.4,
+          732.57
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0061.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.604,
+        "bbox": [
+          326.23,
+          666.63,
+          569.97,
+          727.1
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.35,
+        "bbox": [
+          381.45,
+          607.09,
+          462.36,
+          623.92
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0062.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.554,
+        "bbox": [
+          328.9,
+          668.22,
+          563.69,
+          723.4
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.355,
+        "bbox": [
+          388.71,
+          604.47,
+          445.63,
+          614.86
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0063.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.825,
+        "bbox": [
+          326.02,
+          667.95,
+          567.61,
+          714.15
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0064.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.862,
+        "bbox": [
+          326.75,
+          668.48,
+          562.59,
+          708.96
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0065.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.852,
+        "bbox": [
+          326.62,
+          669.62,
+          561.27,
+          707.2
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0066.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.854,
+        "bbox": [
+          327.33,
+          665.76,
+          557.16,
+          712.36
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0067.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.925,
+        "bbox": [
+          351.99,
+          642.13,
+          589.39,
+          752.89
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0068.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.926,
+        "bbox": [
+          350.11,
+          641.67,
+          588.84,
+          756.95
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0069.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.912,
+        "bbox": [
+          347.12,
+          648.26,
+          590.34,
+          769.51
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0070.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.916,
+        "bbox": [
+          345.54,
+          649.88,
+          589.4,
+          776.3
+        ]
+      },
+      {
+        "class_id": 41,
+        "class_name": "cup",
+        "confidence": 0.308,
+        "bbox": [
+          635.21,
+          870.85,
+          67.52,
+          306.34
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0071.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.919,
+        "bbox": [
+          344.01,
+          765.67,
+          591.11,
+          1010.48
+        ]
+      },
+      {
+        "class_id": 41,
+        "class_name": "cup",
+        "confidence": 0.26,
+        "bbox": [
+          635.65,
+          867.42,
+          68.1,
+          314.22
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0072.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.882,
+        "bbox": [
+          346.18,
+          759.85,
+          593.58,
+          999.68
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0073.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.914,
+        "bbox": [
+          353.02,
+          658.15,
+          612.74,
+          798.45
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0074.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.909,
+        "bbox": [
+          353.8,
+          734.4,
+          618.56,
+          949.91
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0075.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.908,
+        "bbox": [
+          359.07,
+          763.84,
+          706.14,
+          1024.53
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.454,
+        "bbox": [
+          596.69,
+          818.65,
+          244.67,
+          837.77
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.31,
+        "bbox": [
+          598.38,
+          691.01,
+          242.06,
+          583.22
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.266,
+        "bbox": [
+          467.87,
+          721.05,
+          49.12,
+          65.79
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0076.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.884,
+        "bbox": [
+          365.59,
+          769.61,
+          701.02,
+          1020.78
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.324,
+        "bbox": [
+          588.45,
+          680.53,
+          263.11,
+          559.82
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0077.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.905,
+        "bbox": [
+          357.71,
+          760.14,
+          707.9,
+          1033.83
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.383,
+        "bbox": [
+          600.58,
+          663.8,
+          238.85,
+          528.48
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0078.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.879,
+        "bbox": [
+          365.39,
+          762.47,
+          688.13,
+          1032.4
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.448,
+        "bbox": [
+          610.3,
+          630.31,
+          219.4,
+          466.3
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0079.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.833,
+        "bbox": [
+          364.39,
+          751.11,
+          710.16,
+          1049.86
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.738,
+        "bbox": [
+          608.0,
+          593.24,
+          224.0,
+          390.22
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0080.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.884,
+        "bbox": [
+          363.21,
+          761.81,
+          710.5,
+          1036.09
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.484,
+        "bbox": [
+          606.41,
+          702.34,
+          227.17,
+          603.03
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0081.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.864,
+        "bbox": [
+          363.25,
+          761.29,
+          697.28,
+          1034.45
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.523,
+        "bbox": [
+          607.49,
+          643.79,
+          225.03,
+          478.07
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.269,
+        "bbox": [
+          606.82,
+          757.05,
+          224.16,
+          699.68
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0082.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.908,
+        "bbox": [
+          354.19,
+          662.78,
+          702.21,
+          1221.16
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.424,
+        "bbox": [
+          637.94,
+          686.77,
+          164.12,
+          774.45
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.38,
+        "bbox": [
+          639.7,
+          523.24,
+          160.6,
+          452.96
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0083.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.904,
+        "bbox": [
+          360.0,
+          658.82,
+          720.0,
+          1208.11
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.309,
+        "bbox": [
+          639.73,
+          443.98,
+          160.54,
+          308.78
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0084.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.92,
+        "bbox": [
+          361.36,
+          654.77,
+          717.28,
+          1243.06
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.465,
+        "bbox": [
+          525.3,
+          734.21,
+          70.98,
+          96.87
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.257,
+        "bbox": [
+          638.57,
+          467.78,
+          162.86,
+          383.01
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0085.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.904,
+        "bbox": [
+          359.38,
+          653.08,
+          717.27,
+          1228.37
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0086.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.906,
+        "bbox": [
+          360.41,
+          659.93,
+          718.43,
+          1216.56
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.398,
+        "bbox": [
+          640.65,
+          507.65,
+          158.69,
+          477.7
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0087.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.905,
+        "bbox": [
+          359.18,
+          660.81,
+          713.33,
+          1221.09
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.472,
+        "bbox": [
+          530.72,
+          786.55,
+          94.98,
+          158.55
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.357,
+        "bbox": [
+          526.31,
+          767.62,
+          80.86,
+          111.76
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.305,
+        "bbox": [
+          642.14,
+          504.73,
+          155.71,
+          483.89
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0088.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.813,
+        "bbox": [
+          350.18,
+          641.16,
+          697.27,
+          1274.91
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0089.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.772,
+        "bbox": [
+          363.42,
+          635.36,
+          703.72,
+          1268.7
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0090.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.719,
+        "bbox": [
+          362.94,
+          635.58,
+          709.94,
+          1265.35
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0091.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.755,
+        "bbox": [
+          360.75,
+          660.64,
+          715.18,
+          1214.02
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0092.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.773,
+        "bbox": [
+          360.99,
+          674.77,
+          718.02,
+          1205.87
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0093.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.543,
+        "bbox": [
+          359.27,
+          634.07,
+          711.68,
+          1244.97
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.452,
+        "bbox": [
+          368.04,
+          1121.58,
+          703.92,
+          316.08
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.319,
+        "bbox": [
+          181.62,
+          519.81,
+          359.08,
+          1037.42
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0094.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.82,
+        "bbox": [
+          361.47,
+          657.19,
+          717.02,
+          1245.62
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.277,
+        "bbox": [
+          203.39,
+          519.05,
+          404.44,
+          1035.17
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0095.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.898,
+        "bbox": [
+          304.17,
+          693.54,
+          593.16,
+          1170.97
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0096.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.914,
+        "bbox": [
+          337.58,
+          695.72,
+          561.14,
+          1166.92
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0097.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.908,
+        "bbox": [
+          378.85,
+          695.18,
+          569.88,
+          1169.63
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0098.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.892,
+        "bbox": [
+          381.18,
+          699.44,
+          570.55,
+          1161.11
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0099.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.916,
+        "bbox": [
+          343.93,
+          730.0,
+          677.03,
+          1085.23
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0100.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.896,
+        "bbox": [
+          327.89,
+          729.91,
+          655.77,
+          1095.04
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0101.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.879,
+        "bbox": [
+          312.05,
+          730.16,
+          624.1,
+          1093.06
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0102.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.901,
+        "bbox": [
+          336.59,
+          730.67,
+          663.3,
+          1092.32
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.254,
+        "bbox": [
+          269.68,
+          562.89,
+          96.34,
+          169.39
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0103.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.814,
+        "bbox": [
+          361.06,
+          419.95,
+          717.87,
+          829.94
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0104.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.688,
+        "bbox": [
+          361.37,
+          519.32,
+          717.26,
+          1029.67
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.677,
+        "bbox": [
+          311.32,
+          417.88,
+          621.51,
+          821.03
+        ]
+      },
+      {
+        "class_id": 59,
+        "class_name": "bed",
+        "confidence": 0.427,
+        "bbox": [
+          360.0,
+          637.28,
+          720.0,
+          1264.36
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0105.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.671,
+        "bbox": [
+          341.25,
+          416.64,
+          682.05,
+          822.65
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.627,
+        "bbox": [
+          361.16,
+          557.0,
+          717.68,
+          1105.47
+        ]
+      },
+      {
+        "class_id": 59,
+        "class_name": "bed",
+        "confidence": 0.366,
+        "bbox": [
+          359.43,
+          634.98,
+          718.87,
+          1269.96
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0106.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.771,
+        "bbox": [
+          361.4,
+          612.32,
+          717.21,
+          1215.56
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.313,
+        "bbox": [
+          360.28,
+          416.23,
+          719.44,
+          822.86
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0107.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.893,
+        "bbox": [
+          348.44,
+          730.1,
+          690.84,
+          1098.97
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.508,
+        "bbox": [
+          582.7,
+          578.31,
+          272.57,
+          509.52
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.438,
+        "bbox": [
+          626.33,
+          929.55,
+          186.91,
+          314.81
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0108.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.884,
+        "bbox": [
+          357.32,
+          730.44,
+          705.15,
+          1096.23
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.79,
+        "bbox": [
+          585.51,
+          553.57,
+          268.99,
+          468.97
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.265,
+        "bbox": [
+          638.09,
+          560.87,
+          163.82,
+          460.59
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.257,
+        "bbox": [
+          628.77,
+          932.04,
+          182.46,
+          313.87
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0109.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.862,
+        "bbox": [
+          353.31,
+          721.64,
+          701.07,
+          1115.89
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.77,
+        "bbox": [
+          590.6,
+          547.84,
+          258.77,
+          469.8
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.306,
+        "bbox": [
+          425.09,
+          611.95,
+          41.89,
+          62.72
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0110.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.849,
+        "bbox": [
+          356.85,
+          714.19,
+          710.7,
+          1126.6
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.76,
+        "bbox": [
+          606.01,
+          558.36,
+          227.94,
+          480.16
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.481,
+        "bbox": [
+          659.32,
+          568.42,
+          121.36,
+          451.73
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0111.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.894,
+        "bbox": [
+          361.87,
+          711.9,
+          708.95,
+          1135.27
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.709,
+        "bbox": [
+          612.57,
+          562.07,
+          212.98,
+          498.11
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.374,
+        "bbox": [
+          668.76,
+          569.31,
+          102.48,
+          459.28
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.283,
+        "bbox": [
+          467.35,
+          627.42,
+          68.39,
+          93.78
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0112.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.9,
+        "bbox": [
+          360.51,
+          704.59,
+          716.09,
+          1147.93
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.735,
+        "bbox": [
+          621.74,
+          561.31,
+          194.77,
+          496.36
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.468,
+        "bbox": [
+          466.16,
+          661.82,
+          98.04,
+          140.78
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.349,
+        "bbox": [
+          474.99,
+          650.51,
+          80.6,
+          120.27
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.313,
+        "bbox": [
+          480.48,
+          637.76,
+          73.63,
+          95.86
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0113.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.909,
+        "bbox": [
+          362.11,
+          704.51,
+          709.94,
+          1144.18
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.739,
+        "bbox": [
+          625.66,
+          526.32,
+          188.69,
+          429.35
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0114.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.906,
+        "bbox": [
+          355.57,
+          701.98,
+          711.13,
+          1152.31
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.542,
+        "bbox": [
+          631.05,
+          573.33,
+          176.16,
+          530.53
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.406,
+        "bbox": [
+          485.39,
+          630.31,
+          46.38,
+          71.77
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0115.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.901,
+        "bbox": [
+          356.58,
+          697.11,
+          713.16,
+          1163.29
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.251,
+        "bbox": [
+          605.89,
+          455.15,
+          64.48,
+          121.18
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0116.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.881,
+        "bbox": [
+          362.5,
+          695.02,
+          714.6,
+          1163.13
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.321,
+        "bbox": [
+          631.67,
+          430.61,
+          173.66,
+          250.18
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0117.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.916,
+        "bbox": [
+          362.35,
+          693.68,
+          715.29,
+          1169.05
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.539,
+        "bbox": [
+          634.55,
+          506.1,
+          170.91,
+          405.37
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0118.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.936,
+        "bbox": [
+          360.51,
+          693.57,
+          718.97,
+          1169.8
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.739,
+        "bbox": [
+          630.83,
+          533.3,
+          177.24,
+          462.62
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0119.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.934,
+        "bbox": [
+          360.0,
+          694.78,
+          720.0,
+          1165.35
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.822,
+        "bbox": [
+          622.82,
+          554.69,
+          194.37,
+          524.94
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0120.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.848,
+        "bbox": [
+          351.88,
+          662.26,
+          700.52,
+          1230.28
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.726,
+        "bbox": [
+          621.38,
+          549.22,
+          197.25,
+          582.73
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0121.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.866,
+        "bbox": [
+          356.23,
+          662.02,
+          693.61,
+          1228.98
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.526,
+        "bbox": [
+          622.9,
+          545.53,
+          193.34,
+          586.11
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.287,
+        "bbox": [
+          621.91,
+          407.03,
+          196.19,
+          310.86
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0122.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.856,
+        "bbox": [
+          354.97,
+          661.17,
+          702.09,
+          1233.78
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.294,
+        "bbox": [
+          621.32,
+          513.63,
+          197.35,
+          522.51
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0123.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.852,
+        "bbox": [
+          353.29,
+          655.72,
+          698.79,
+          1239.38
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.341,
+        "bbox": [
+          619.23,
+          535.37,
+          201.54,
+          544.85
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0124.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.801,
+        "bbox": [
+          357.69,
+          666.98,
+          705.17,
+          1216.13
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.507,
+        "bbox": [
+          622.4,
+          565.53,
+          193.1,
+          609.55
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0125.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.763,
+        "bbox": [
+          368.64,
+          656.36,
+          702.72,
+          1226.58
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.574,
+        "bbox": [
+          623.38,
+          453.74,
+          192.0,
+          384.45
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0126.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.789,
+        "bbox": [
+          365.95,
+          647.58,
+          708.11,
+          1198.66
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.698,
+        "bbox": [
+          622.74,
+          461.47,
+          194.05,
+          394.38
+        ]
+      },
+      {
+        "class_id": 65,
+        "class_name": "remote",
+        "confidence": 0.311,
+        "bbox": [
+          487.29,
+          794.33,
+          119.05,
+          62.9
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.269,
+        "bbox": [
+          489.53,
+          610.24,
+          49.82,
+          75.68
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0127.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.911,
+        "bbox": [
+          350.2,
+          639.7,
+          697.45,
+          1267.5
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.554,
+        "bbox": [
+          508.3,
+          707.63,
+          69.18,
+          98.14
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.545,
+        "bbox": [
+          619.89,
+          533.74,
+          198.32,
+          700.57
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0128.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.897,
+        "bbox": [
+          359.53,
+          640.1,
+          715.05,
+          1276.43
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.403,
+        "bbox": [
+          618.96,
+          428.71,
+          202.07,
+          494.47
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.369,
+        "bbox": [
+          620.33,
+          573.86,
+          199.17,
+          780.63
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.336,
+        "bbox": [
+          508.92,
+          705.88,
+          72.95,
+          104.21
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0129.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.897,
+        "bbox": [
+          360.0,
+          636.42,
+          720.0,
+          1271.5
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.514,
+        "bbox": [
+          618.25,
+          464.38,
+          202.82,
+          571.46
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0130.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.883,
+        "bbox": [
+          360.0,
+          633.33,
+          720.0,
+          1266.66
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.587,
+        "bbox": [
+          614.8,
+          578.13,
+          209.52,
+          810.47
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.473,
+        "bbox": [
+          616.95,
+          428.88,
+          206.1,
+          504.45
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0131.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.89,
+        "bbox": [
+          360.41,
+          619.06,
+          717.52,
+          1232.03
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.628,
+        "bbox": [
+          616.22,
+          351.26,
+          207.25,
+          352.23
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0132.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.907,
+        "bbox": [
+          360.04,
+          619.31,
+          719.91,
+          1238.61
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.442,
+        "bbox": [
+          617.09,
+          350.56,
+          205.83,
+          354.49
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0133.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.899,
+        "bbox": [
+          359.02,
+          643.27,
+          718.05,
+          1259.2
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.476,
+        "bbox": [
+          616.2,
+          416.03,
+          207.59,
+          486.76
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.379,
+        "bbox": [
+          614.74,
+          674.62,
+          210.36,
+          1011.27
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0134.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.842,
+        "bbox": [
+          362.05,
+          687.38,
+          715.91,
+          1169.6
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.695,
+        "bbox": [
+          598.56,
+          432.78,
+          242.89,
+          404.87
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0135.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.916,
+        "bbox": [
+          360.41,
+          692.42,
+          719.18,
+          1168.88
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.588,
+        "bbox": [
+          597.65,
+          386.29,
+          244.39,
+          311.75
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.286,
+        "bbox": [
+          596.18,
+          537.71,
+          245.27,
+          615.07
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0136.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.904,
+        "bbox": [
+          361.02,
+          688.94,
+          717.5,
+          1175.21
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.772,
+        "bbox": [
+          597.24,
+          386.59,
+          244.22,
+          316.06
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.28,
+        "bbox": [
+          597.02,
+          565.59,
+          244.23,
+          674.39
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0137.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.917,
+        "bbox": [
+          360.41,
+          690.94,
+          719.18,
+          1171.8
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.558,
+        "bbox": [
+          598.16,
+          391.33,
+          243.69,
+          326.8
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0138.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.865,
+        "bbox": [
+          361.72,
+          687.62,
+          716.57,
+          1171.39
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.777,
+        "bbox": [
+          598.86,
+          479.56,
+          242.28,
+          513.25
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.314,
+        "bbox": [
+          89.75,
+          361.45,
+          175.25,
+          232.06
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0139.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.814,
+        "bbox": [
+          360.94,
+          568.38,
+          718.12,
+          938.68
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.757,
+        "bbox": [
+          600.39,
+          517.02,
+          239.22,
+          589.51
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.478,
+        "bbox": [
+          451.97,
+          634.06,
+          52.2,
+          74.93
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0140.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.884,
+        "bbox": [
+          374.1,
+          731.97,
+          666.63,
+          1095.81
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.629,
+        "bbox": [
+          586.61,
+          503.18,
+          266.77,
+          466.07
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.557,
+        "bbox": [
+          441.0,
+          588.77,
+          60.51,
+          64.12
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.412,
+        "bbox": [
+          117.89,
+          419.73,
+          227.78,
+          262.82
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.287,
+        "bbox": [
+          637.49,
+          489.81,
+          164.14,
+          433.9
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0141.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.855,
+        "bbox": [
+          372.23,
+          733.03,
+          668.62,
+          1093.42
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.594,
+        "bbox": [
+          585.97,
+          509.08,
+          268.07,
+          478.13
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.486,
+        "bbox": [
+          440.52,
+          608.44,
+          59.23,
+          99.93
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.437,
+        "bbox": [
+          117.76,
+          419.16,
+          227.2,
+          262.08
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.276,
+        "bbox": [
+          585.27,
+          623.01,
+          269.46,
+          702.99
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0142.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.827,
+        "bbox": [
+          367.99,
+          463.42,
+          692.63,
+          909.28
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0143.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.714,
+        "bbox": [
+          361.35,
+          445.68,
+          716.71,
+          869.01
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0144.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.758,
+        "bbox": [
+          360.0,
+          429.36,
+          720.0,
+          849.29
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0145.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.76,
+        "bbox": [
+          360.48,
+          418.61,
+          719.04,
+          831.89
+        ]
+      },
+      {
+        "class_id": 59,
+        "class_name": "bed",
+        "confidence": 0.278,
+        "bbox": [
+          360.42,
+          785.7,
+          719.16,
+          987.66
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0146.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.94,
+        "bbox": [
+          363.96,
+          704.53,
+          709.68,
+          1150.93
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0147.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.934,
+        "bbox": [
+          360.0,
+          718.54,
+          720.0,
+          1117.34
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0148.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.923,
+        "bbox": [
+          363.04,
+          725.43,
+          710.99,
+          1109.14
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0149.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.932,
+        "bbox": [
+          358.5,
+          723.78,
+          716.99,
+          1107.19
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0150.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.945,
+        "bbox": [
+          360.49,
+          671.0,
+          716.05,
+          1213.57
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.323,
+        "bbox": [
+          532.45,
+          877.06,
+          86.68,
+          117.04
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0151.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.929,
+        "bbox": [
+          360.0,
+          687.47,
+          720.0,
+          1185.07
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0152.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.946,
+        "bbox": [
+          367.47,
+          754.21,
+          700.83,
+          1051.58
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0153.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.913,
+        "bbox": [
+          371.51,
+          759.26,
+          696.98,
+          1035.43
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0154.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.882,
+        "bbox": [
+          357.63,
+          757.56,
+          715.27,
+          1043.23
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0155.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.832,
+        "bbox": [
+          362.53,
+          752.03,
+          709.78,
+          1050.91
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0156.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.953,
+        "bbox": [
+          360.0,
+          691.04,
+          720.0,
+          1175.32
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.392,
+        "bbox": [
+          587.06,
+          827.36,
+          78.62,
+          109.51
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0157.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.94,
+        "bbox": [
+          360.43,
+          697.97,
+          719.15,
+          1157.06
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.682,
+        "bbox": [
+          568.61,
+          836.97,
+          71.48,
+          105.62
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0158.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.94,
+        "bbox": [
+          358.6,
+          693.1,
+          717.13,
+          1172.39
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0159.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.937,
+        "bbox": [
+          360.0,
+          695.88,
+          720.0,
+          1166.51
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.384,
+        "bbox": [
+          588.46,
+          857.17,
+          83.21,
+          107.57
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0160.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.924,
+        "bbox": [
+          362.2,
+          690.63,
+          715.6,
+          1167.37
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0161.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.943,
+        "bbox": [
+          362.58,
+          690.51,
+          712.82,
+          1175.75
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0162.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.949,
+        "bbox": [
+          360.0,
+          691.05,
+          720.0,
+          1176.72
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0163.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.943,
+        "bbox": [
+          360.33,
+          687.01,
+          719.33,
+          1181.94
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.369,
+        "bbox": [
+          596.4,
+          860.71,
+          80.19,
+          107.48
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0164.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.922,
+        "bbox": [
+          367.65,
+          664.5,
+          704.69,
+          1228.22
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.451,
+        "bbox": [
+          561.52,
+          866.41,
+          99.51,
+          125.44
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0165.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.924,
+        "bbox": [
+          386.14,
+          665.2,
+          667.71,
+          1225.7
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.611,
+        "bbox": [
+          622.22,
+          874.83,
+          101.16,
+          122.7
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0166.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.925,
+        "bbox": [
+          375.42,
+          671.1,
+          684.89,
+          1217.8
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.629,
+        "bbox": [
+          595.3,
+          877.11,
+          100.08,
+          123.25
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0167.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.937,
+        "bbox": [
+          381.24,
+          669.11,
+          675.3,
+          1221.79
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.672,
+        "bbox": [
+          594.18,
+          891.39,
+          100.46,
+          124.51
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0168.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.921,
+        "bbox": [
+          377.45,
+          665.54,
+          680.47,
+          1228.91
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.464,
+        "bbox": [
+          596.99,
+          894.28,
+          100.43,
+          123.77
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0169.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.929,
+        "bbox": [
+          374.66,
+          667.06,
+          685.01,
+          1225.88
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.715,
+        "bbox": [
+          582.96,
+          883.51,
+          102.78,
+          124.88
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0170.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.935,
+        "bbox": [
+          406.21,
+          712.27,
+          627.57,
+          1131.87
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.408,
+        "bbox": [
+          542.02,
+          847.6,
+          85.2,
+          105.17
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0171.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.941,
+        "bbox": [
+          402.79,
+          703.8,
+          634.43,
+          1149.68
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.333,
+        "bbox": [
+          539.05,
+          852.62,
+          82.43,
+          106.61
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0172.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.869,
+        "bbox": [
+          360.0,
+          701.46,
+          720.0,
+          1150.56
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.318,
+        "bbox": [
+          521.15,
+          850.15,
+          85.01,
+          106.82
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0173.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.932,
+        "bbox": [
+          380.1,
+          704.77,
+          679.06,
+          1149.2
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0174.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.919,
+        "bbox": [
+          368.8,
+          704.56,
+          696.57,
+          1146.26
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.304,
+        "bbox": [
+          499.47,
+          847.3,
+          86.35,
+          106.33
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0175.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.927,
+        "bbox": [
+          373.3,
+          704.75,
+          692.22,
+          1150.49
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0176.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.921,
+        "bbox": [
+          371.62,
+          708.69,
+          695.35,
+          1141.49
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0177.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.918,
+        "bbox": [
+          367.35,
+          704.67,
+          705.3,
+          1149.76
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0178.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.942,
+        "bbox": [
+          362.15,
+          703.85,
+          715.7,
+          1149.28
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.588,
+        "bbox": [
+          472.81,
+          820.67,
+          80.55,
+          103.08
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0179.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.929,
+        "bbox": [
+          360.79,
+          703.2,
+          718.25,
+          1152.2
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.382,
+        "bbox": [
+          488.37,
+          823.29,
+          80.59,
+          106.03
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0180.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.928,
+        "bbox": [
+          360.0,
+          701.8,
+          720.0,
+          1153.01
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.448,
+        "bbox": [
+          494.5,
+          820.05,
+          79.57,
+          101.57
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0181.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.932,
+        "bbox": [
+          389.66,
+          702.68,
+          659.74,
+          1153.44
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.613,
+        "bbox": [
+          504.19,
+          824.4,
+          80.68,
+          105.3
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0182.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.921,
+        "bbox": [
+          360.0,
+          702.68,
+          720.0,
+          1151.55
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.625,
+        "bbox": [
+          507.49,
+          833.55,
+          81.31,
+          104.4
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0183.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.918,
+        "bbox": [
+          360.0,
+          700.25,
+          720.0,
+          1156.58
+        ]
+      },
+      {
+        "class_id": 67,
+        "class_name": "cell phone",
+        "confidence": 0.629,
+        "bbox": [
+          493.52,
+          840.99,
+          82.55,
+          105.63
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0184.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0185.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0186.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0187.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0188.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0189.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0190.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0191.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0192.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0193.jpg",
+    "detections": []
+  }
+]

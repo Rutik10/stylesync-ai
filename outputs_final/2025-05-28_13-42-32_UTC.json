@@ -1,0 +1,50 @@
+{
+  "video_id": "2025-05-28_13-42-32_UTC",
+  "vibes": [
+    "Boho",
+    "Clean Girl",
+    "Party Glam"
+  ],
+  "products": [
+    {
+      "type": "Shorts",
+      "color": "Colour:White, Fabric:Cotton, Gender:Women, GID_VWWSO24361016, GroupID:VWWSO24361016, Print:Ethnic Motifs, StyleID:VWWSO2436101601",
+      "image_url": "https://cdn.shopify.com/s/files/1/0785/1674/8585/files/8102549_512x.jpg?v=1747209703",
+      "matched_product_id": 42075,
+      "match_type": "similar",
+      "confidence": 0.85
+    },
+    {
+      "type": "Shorts",
+      "color": "Colour:White, Fabric:Cotton, Gender:Women, GID_VWWSO24361016, GroupID:VWWSO24361016, Print:Ethnic Motifs, StyleID:VWWSO2436101601",
+      "image_url": "https://cdn.shopify.com/s/files/1/0785/1674/8585/files/8102549_512x.jpg?v=1747209703",
+      "matched_product_id": 42075,
+      "match_type": "similar",
+      "confidence": 0.85
+    },
+    {
+      "type": "Dress",
+      "color": "Colour:Red, Fabric:Cotton, Gender:Women, GID_VWWDR24262014, GroupID:VWWDR24262014, Print:Floral, StyleID:VWWDR2426201401",
+      "image_url": "https://cdn.shopify.com/s/files/1/0785/1674/8585/files/28thAugVirgio2070_512x.jpg?v=1726140159",
+      "matched_product_id": 15756,
+      "match_type": "similar",
+      "confidence": 0.83
+    },
+    {
+      "type": "Shorts",
+      "color": "Colour:White, Fabric:Cotton, Gender:Women, GID_VWWSO24361016, GroupID:VWWSO24361016, Print:Ethnic Motifs, StyleID:VWWSO2436101601",
+      "image_url": "https://cdn.shopify.com/s/files/1/0785/1674/8585/files/8102549_512x.jpg?v=1747209703",
+      "matched_product_id": 42075,
+      "match_type": "similar",
+      "confidence": 0.83
+    },
+    {
+      "type": "Shorts",
+      "color": "Colour:White, Fabric:Cotton, Gender:Women, GID_VWWSO24361016, GroupID:VWWSO24361016, Print:Ethnic Motifs, StyleID:VWWSO2436101601",
+      "image_url": "https://cdn.shopify.com/s/files/1/0785/1674/8585/files/8102549_512x.jpg?v=1747209703",
+      "matched_product_id": 42075,
+      "match_type": "similar",
+      "confidence": 0.83
+    }
+  ]
+}

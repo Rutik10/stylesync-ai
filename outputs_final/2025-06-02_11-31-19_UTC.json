@@ -1,0 +1,50 @@
+{
+  "video_id": "2025-06-02_11-31-19_UTC",
+  "vibes": [
+    "Y2K",
+    "Party Glam",
+    "Boho"
+  ],
+  "products": [
+    {
+      "type": "Top",
+      "color": "Colour:Beige, Fabric:Cotton, Gender:Women, GID_VWWTO24380016, GroupID:VWWTO24380016, Print:Solid, StyleID:VWWTO2438001601",
+      "image_url": "https://cdn.shopify.com/s/files/1/0785/1674/8585/files/sep10virgio0059_512x.jpg?v=1730213179",
+      "matched_product_id": 15430,
+      "match_type": "similar",
+      "confidence": 0.86
+    },
+    {
+      "type": "Top",
+      "color": "Colour:Beige, Fabric:Cotton, Gender:Women, GID_VWWTO24380016, GroupID:VWWTO24380016, Print:Solid, StyleID:VWWTO2438001601",
+      "image_url": "https://cdn.shopify.com/s/files/1/0785/1674/8585/files/sep10virgio0059_512x.jpg?v=1730213179",
+      "matched_product_id": 15430,
+      "match_type": "similar",
+      "confidence": 0.86
+    },
+    {
+      "type": "unknown",
+      "color": "other",
+      "image_url": "",
+      "matched_product_id": 15179,
+      "match_type": "similar",
+      "confidence": 0.86
+    },
+    {
+      "type": "Shirt",
+      "color": "Colour:Blue, Fabric:Cotton, Gender:Women, GID_VWWSH24150115, GroupID:VWWSH24150115, Print:Stripe, StyleID:VWWSH2415011501",
+      "image_url": "https://cdn.shopify.com/s/files/1/0785/1674/8585/files/0309_1600x.jpg?v=1715175725",
+      "matched_product_id": 17027,
+      "match_type": "similar",
+      "confidence": 0.85
+    },
+    {
+      "type": "Shirt",
+      "color": "Colour:White, Fabric:Cotton, Gender:Women, GID_VWWSH24304079, GroupID:VWWSH24304079, Print:Stripes, StyleID:VWWSH2430407901",
+      "image_url": "https://cdn.shopify.com/s/files/1/0785/1674/8585/files/23rd_Aug_Virgio1564_512x.jpg?v=1725022246",
+      "matched_product_id": 15915,
+      "match_type": "similar",
+      "confidence": 0.85
+    }
+  ]
+}

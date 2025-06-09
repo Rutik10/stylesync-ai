@@ -1,0 +1,50 @@
+{
+  "video_id": "2025-05-28_13-40-09_UTC",
+  "vibes": [
+    "Clean Girl",
+    "Boho",
+    "Coquette"
+  ],
+  "products": [
+    {
+      "type": "Shorts",
+      "color": "Colour:White, Fabric:Cotton, Gender:Women, GID_VWWSO24361016, GroupID:VWWSO24361016, Print:Ethnic Motifs, StyleID:VWWSO2436101601",
+      "image_url": "https://cdn.shopify.com/s/files/1/0785/1674/8585/files/8102549_512x.jpg?v=1747209703",
+      "matched_product_id": 42075,
+      "match_type": "similar",
+      "confidence": 0.84
+    },
+    {
+      "type": "Shorts",
+      "color": "Colour:White, Fabric:Cotton, Gender:Women, GID_VWWSO24361016, GroupID:VWWSO24361016, Print:Ethnic Motifs, StyleID:VWWSO2436101601",
+      "image_url": "https://cdn.shopify.com/s/files/1/0785/1674/8585/files/8102549_512x.jpg?v=1747209703",
+      "matched_product_id": 42075,
+      "match_type": "similar",
+      "confidence": 0.84
+    },
+    {
+      "type": "Shorts",
+      "color": "Colour:White, Fabric:Cotton, Gender:Women, GID_VWWSO24361016, GroupID:VWWSO24361016, Print:Ethnic Motifs, StyleID:VWWSO2436101601",
+      "image_url": "https://cdn.shopify.com/s/files/1/0785/1674/8585/files/8102549_512x.jpg?v=1747209703",
+      "matched_product_id": 42075,
+      "match_type": "similar",
+      "confidence": 0.84
+    },
+    {
+      "type": "unknown",
+      "color": "other",
+      "image_url": "",
+      "matched_product_id": 17119,
+      "match_type": "similar",
+      "confidence": 0.84
+    },
+    {
+      "type": "Top",
+      "color": "Colour:White, Fabric:Rescued Fabric, Gender:Women, GID_VWWTO24250239, GroupID:VWWTO24250239, Print:Solid, StyleID:VWWTO2425023901",
+      "image_url": "https://cdn.shopify.com/s/files/1/0785/1674/8585/files/25novvirgio1097_512x.jpg?v=1733496306",
+      "matched_product_id": 15357,
+      "match_type": "similar",
+      "confidence": 0.83
+    }
+  ]
+}

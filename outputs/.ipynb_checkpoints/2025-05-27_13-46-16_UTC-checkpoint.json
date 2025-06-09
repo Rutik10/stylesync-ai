@@ -1,0 +1,619 @@
+[
+  {
+    "frame": "frame_0000.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.865,
+        "bbox": [
+          341.93,
+          670.13,
+          671.37,
+          1218.04
+        ]
+      },
+      {
+        "class_id": 25,
+        "class_name": "umbrella",
+        "confidence": 0.357,
+        "bbox": [
+          362.43,
+          358.81,
+          715.14,
+          717.63
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0001.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.871,
+        "bbox": [
+          345.78,
+          664.67,
+          679.11,
+          1226.39
+        ]
+      },
+      {
+        "class_id": 25,
+        "class_name": "umbrella",
+        "confidence": 0.33,
+        "bbox": [
+          362.04,
+          368.35,
+          715.91,
+          736.69
+        ]
+      },
+      {
+        "class_id": 25,
+        "class_name": "umbrella",
+        "confidence": 0.277,
+        "bbox": [
+          361.59,
+          258.46,
+          716.82,
+          516.53
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0002.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.901,
+        "bbox": [
+          349.91,
+          674.74,
+          687.9,
+          1210.52
+        ]
+      },
+      {
+        "class_id": 25,
+        "class_name": "umbrella",
+        "confidence": 0.394,
+        "bbox": [
+          362.3,
+          389.07,
+          715.41,
+          770.34
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0003.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.893,
+        "bbox": [
+          364.92,
+          692.78,
+          710.17,
+          1168.2
+        ]
+      },
+      {
+        "class_id": 27,
+        "class_name": "tie",
+        "confidence": 0.836,
+        "bbox": [
+          313.35,
+          1108.33,
+          240.23,
+          341.61
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0004.jpg",
+    "detections": [
+      {
+        "class_id": 27,
+        "class_name": "tie",
+        "confidence": 0.891,
+        "bbox": [
+          346.71,
+          1100.38,
+          239.21,
+          358.4
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.857,
+        "bbox": [
+          391.12,
+          691.0,
+          657.75,
+          1169.26
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0005.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.878,
+        "bbox": [
+          478.72,
+          687.72,
+          339.26,
+          993.35
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.78,
+        "bbox": [
+          208.47,
+          708.04,
+          275.65,
+          1115.36
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0006.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.881,
+        "bbox": [
+          479.6,
+          697.0,
+          343.33,
+          1029.85
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.801,
+        "bbox": [
+          197.28,
+          700.22,
+          293.88,
+          1134.77
+        ]
+      },
+      {
+        "class_id": 26,
+        "class_name": "handbag",
+        "confidence": 0.261,
+        "bbox": [
+          581.98,
+          926.49,
+          136.74,
+          335.69
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0007.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.915,
+        "bbox": [
+          357.66,
+          636.31,
+          711.59,
+          1272.61
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0008.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.896,
+        "bbox": [
+          357.86,
+          638.17,
+          714.41,
+          1276.34
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0009.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.913,
+        "bbox": [
+          360.0,
+          639.47,
+          720.0,
+          1272.76
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.343,
+        "bbox": [
+          658.52,
+          805.46,
+          122.96,
+          272.4
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0010.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.907,
+        "bbox": [
+          360.0,
+          640.8,
+          720.0,
+          1275.47
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0011.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.341,
+        "bbox": [
+          386.68,
+          507.82,
+          650.68,
+          864.17
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.322,
+        "bbox": [
+          507.44,
+          323.5,
+          423.29,
+          643.95
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.259,
+        "bbox": [
+          575.2,
+          408.75,
+          289.18,
+          468.16
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0012.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0013.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.871,
+        "bbox": [
+          361.18,
+          637.33,
+          711.62,
+          1271.38
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0014.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.888,
+        "bbox": [
+          359.97,
+          638.72,
+          719.94,
+          1277.45
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0015.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.37,
+        "bbox": [
+          348.93,
+          536.42,
+          697.87,
+          441.12
+        ]
+      },
+      {
+        "class_id": 62,
+        "class_name": "tv",
+        "confidence": 0.314,
+        "bbox": [
+          356.1,
+          212.89,
+          712.2,
+          420.06
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.258,
+        "bbox": [
+          467.17,
+          789.72,
+          450.86,
+          295.32
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0016.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.449,
+        "bbox": [
+          549.66,
+          438.26,
+          300.42,
+          271.34
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.324,
+        "bbox": [
+          353.27,
+          528.17,
+          705.66,
+          450.13
+        ]
+      },
+      {
+        "class_id": 62,
+        "class_name": "tv",
+        "confidence": 0.292,
+        "bbox": [
+          356.92,
+          211.07,
+          713.75,
+          416.14
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0017.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.845,
+        "bbox": [
+          268.72,
+          641.34,
+          534.81,
+          1277.31
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.767,
+        "bbox": [
+          556.61,
+          720.02,
+          288.6,
+          1114.19
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0018.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.823,
+        "bbox": [
+          303.25,
+          640.17,
+          604.45,
+          1275.81
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.711,
+        "bbox": [
+          527.67,
+          733.9,
+          257.41,
+          1084.1
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0019.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.479,
+        "bbox": [
+          358.99,
+          631.49,
+          713.24,
+          1257.57
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0020.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.418,
+        "bbox": [
+          361.22,
+          627.69,
+          715.61,
+          1248.36
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0021.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.853,
+        "bbox": [
+          339.43,
+          667.24,
+          678.86,
+          1218.28
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0022.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.85,
+        "bbox": [
+          340.45,
+          666.96,
+          672.96,
+          1222.55
+        ]
+      },
+      {
+        "class_id": 56,
+        "class_name": "chair",
+        "confidence": 0.373,
+        "bbox": [
+          87.13,
+          906.42,
+          173.11,
+          416.44
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0023.jpg",
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "person",
+        "confidence": 0.89,
+        "bbox": [
+          408.0,
+          653.05,
+          624.0,
+          1253.91
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0024.jpg",
+    "detections": [
+      {
+        "class_id": 76,
+        "class_name": "scissors",
+        "confidence": 0.298,
+        "bbox": [
+          440.91,
+          664.93,
+          188.82,
+          86.26
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0025.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0026.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0027.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0028.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0029.jpg",
+    "detections": []
+  }
+]

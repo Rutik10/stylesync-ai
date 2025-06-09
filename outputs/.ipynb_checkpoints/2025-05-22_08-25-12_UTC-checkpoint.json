@@ -1,0 +1,114 @@
+[
+  {
+    "frame": "frame_0000.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0001.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0002.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0003.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0004.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0005.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0006.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0007.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0008.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0009.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0010.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0011.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0012.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0013.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0014.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0015.jpg",
+    "detections": []
+  },
+  {
+    "frame": "frame_0016.jpg",
+    "detections": [
+      {
+        "class_id": 32,
+        "class_name": "sports ball",
+        "confidence": 0.719,
+        "bbox": [
+          398.03,
+          710.87,
+          30.95,
+          31.19
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0017.jpg",
+    "detections": [
+      {
+        "class_id": 32,
+        "class_name": "sports ball",
+        "confidence": 0.717,
+        "bbox": [
+          398.12,
+          710.92,
+          30.74,
+          31.24
+        ]
+      }
+    ]
+  },
+  {
+    "frame": "frame_0018.jpg",
+    "detections": [
+      {
+        "class_id": 32,
+        "class_name": "sports ball",
+        "confidence": 0.718,
+        "bbox": [
+          398.1,
+          710.91,
+          30.8,
+          31.26
+        ]
+      }
+    ]
+  }
+]
