@@ -29,7 +29,6 @@ stylesync-ai/
 ├── outputs/ # Object detection results (YOLO JSON per video)
 ├── notebooks/
 │ └── main_pipeline.ipynb # End-to-end notebook pipeline
-├── api/ # (Optional) Flask/FastAPI backend
 ├── requirements.txt # Python dependencies
 └── README.md # You are here
 ```
