@@ -105,7 +105,10 @@ Captions and hashtags (or optional audio transcript) are:
 
 🎥 Watch the demo of the complete pipeline in action:
 
-👉 [Click here to view the Loom demo](https://loom.com/your-demo-link)
+## 📽 Demo Video
+
+Watch the full demo on Loom:  
+👉 [Click here to watch](https://www.loom.com/share/fea9f75bac024ed4a5fe2bd40860dd47?sid=f0261a7a-5dba-411c-8c6b-89748ab65ba0)
 
 ---
 
